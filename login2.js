@@ -5,7 +5,7 @@ var password=document.getElementById("password").value;
 if(username=="admin"&& password=="user")
 {
     alert("Login Successfully");
-    window.open(https://haydenandaki.github.io/Website-Development/)
+    window.open(haydenandaki.github.io/Website-Development/)
     return false;
 }
 else
