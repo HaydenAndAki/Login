@@ -13,7 +13,7 @@ else
     alert("Login Failed");
 }
 if("Login Successfully") {
-   window.close("https://haydenandaki.github.io/Login/");
+   window.close
 }
 
 }
