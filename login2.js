@@ -7,13 +7,11 @@ if(username=="Hayden"&& password=="aki")
     alert("Login Successfully");
     window.open("https://haydenandaki.github.io/Website-Development/"); 
     return false;
+    window.close
 }
 else
 {
     alert("Login Failed");
-}
-if("Login Successfully") {
-   window.close
 }
 
 }
