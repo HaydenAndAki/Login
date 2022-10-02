@@ -3,7 +3,7 @@ body{
     padding:0;
     font-family: sans-serif;
     background: url(stars.jpg);
-    background-size: cover;
+    background-size "cover";
 }
 .box{
     width:300px;
