@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     font-family: sans-serif;
-    background: url(stars.jpg);
+    background: url(back.png);
     background-size "cover";
 }
 .box{
